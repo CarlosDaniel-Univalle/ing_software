@@ -15,6 +15,7 @@
 1. **Patrón State:** Implementa el patrón State para gestionar el estado de las rutas turísticas. Puede haber estados como "en proceso de construcción", "publicada" o "archivada". Esto mejorará la eficacia al controlar el flujo de trabajo de las rutas.
 
 ## Informe
+Requerimientos y Mockups.
 
 - [PDF](https://github.com/CarlosDaniel-Univalle/ing_software/blob/main/Proyecto_Final_Ing_de_Software/Travel%20by%20Carlos%20Daniel%20Menchaca%20Arauz.pdf) - INFORME
 
