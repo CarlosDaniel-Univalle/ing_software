@@ -18,6 +18,16 @@
 
 - [PDF](https://github.com/CarlosDaniel-Univalle/ing_software/blob/main/Proyecto_Final_Ing_de_Software/Travel%20by%20Carlos%20Daniel%20Menchaca%20Arauz.pdf) - INFORME
 
+## Github
+
+- [GITHUB](https://github.com/iamcarlosdaniel/Travel/) - GITHUB
+
 ## UML
 
-
+![](Actividad.png)
+![](Clases.png)
+![](Colaboracion.png)
+![](Components.png)
+![](Despliegue.png)
+![](Objetos.png)
+![](Secuencia.png)
